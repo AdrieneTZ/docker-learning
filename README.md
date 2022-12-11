@@ -1,3 +1,6 @@
+## NOTE:
+This is a demo app of my learning on how to use Docker and to push an private image on AWS. All steps are followed this YouTube channel "TechWorld with Nana", and this video [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://youtu.be/3c-iBn73dDE).
+
 ## demo app - developing with Docker
 
 This demo app shows a simple user profile app set up using
